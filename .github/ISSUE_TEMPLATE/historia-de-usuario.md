@@ -7,8 +7,8 @@ assignees: ''
 
 ---
 
-**Como** [rol]
-**Necesito** [función]  
+**Como** [rol]  
+ **Necesito** [función]  
  **Para que** [beneficio]  
    
  ### Detalles y Suposiciones
@@ -16,7 +16,7 @@ assignees: ''
    
  ### Criterios de Aceptación  
    
- ```gherkin
+ '''pepinillo
  Dado [algún contexto]
  Cuando [se realiza cierta acción]
  Entonces [se observa el resultado de la acción]
